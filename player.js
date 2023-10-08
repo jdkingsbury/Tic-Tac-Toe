@@ -2,9 +2,9 @@ import inquirer from "inquirer";
 import { Board } from "./board.js";
 // Create the movement list that each player will choose
 const MOVE_LIST = [
-	'0 Top Left',
-	'1 Top Middle',
-	'2 Top Right',
+	'0 (Top Left)',
+	'1 (Top Middle)',
+	'2 (Top Right)',
 	'3 (Middle Left)',
 	'4 (Middle Middle)',
 	'5 (Middle Right)',
