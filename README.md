@@ -3,7 +3,8 @@
 ## Simple Node CLI Game
 
 ### Setup/ Installation
-* You will need to have node installed to run the game
+* You will need to have node and npm installed to run the game
+* If you are using linux you may need to install nvm to make sure you get the latest version of node
 
 ``````
 git clone https://github.com/jdkingsbury/Tic-Tac-Toe.git
