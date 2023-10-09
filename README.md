@@ -13,8 +13,8 @@ npm install
 ``````
 
 ### Gameplay
-input a name for both players. After the players names are selected you will then be prompted with available moves. 
-Continue to select a move until the game is over. 
+Add a name for both players 1 and 2. After the players names are created the game will start and show all the available moves. 
+The game will continue until there is either a winner or until there aren't any moves left.
 
 ## Run
 Use either Command to run the game
